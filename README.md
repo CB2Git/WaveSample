@@ -1,1 +1,1 @@
-﻿#### Android波浪动效##### 效果图
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿#### Android波浪动效#### 效果图![avatar](https://raw.githubusercontent.com/CB2Git/WaveSample/master/gif/screen.gif)#### 关键点* 在运动方向相反的方向多绘制几个周期，每次移动整数个周期* 如果想让多个波浪更加的拟真，可以使用不同的移动速度以及移动方向* 多个波浪产生层次感的关键是每个波浪都是存在透明度的，所以颜色可以叠加#### 参考链接[自定义控件三部曲之绘图篇（六）——Path之贝赛尔曲线和手势轨迹、水波纹效果](https://blog.csdn.net/harvic880925/article/details/50995587)[MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader)
